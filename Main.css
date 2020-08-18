@@ -1,0 +1,50 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.top-center{
+    position: absolute;
+    top:0%;
+    left:23%
+}
+
+.left{
+    position: absolute;
+    top: 26%;
+    left:4%;
+}
+.rightupper{
+    position: absolute;
+    top:20%;
+    right:5%
+}
+.right{
+    position: absolute;
+    top:40%;
+    left:57%;
+}
+.lowerleft{
+    position: absolute;
+    top:73%;
+    left:8%;
+}
+
+.contactme{
+    position: absolute;
+    top: 80%;
+    left: 20%
+}
+
+.fontsize{
+    font-size: 25;
+}
+
+.titlefontsize{
+    font-size: 100;
+}
+.fonttype{
+    font-family: khen;
+    src:url();
+}
